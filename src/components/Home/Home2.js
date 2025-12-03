@@ -13,37 +13,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a DevOps & Cloud Engineer in training who loves turning ideas into automated, scalable, and reliable cloud systems. Over time, I’ve explored various technologies and discovered my passion for containerization, CI/CD pipelines, and cloud deployments that power modern applications.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Docker, Jenkins, AWS, Azure, Kubernetes, Linux, Git, and networking fundamentals,{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and I enjoy working across both infrastructure and application pipelines.
               <br />
               <br />
               My key areas of interest include developing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  CI/CD automation, container orchestration, cloud infrastructure design, and performance optimization.{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              Whenever possible, I build hands-on projects that involve
+              <b className="purple"> end-to-end deployments </b> multi-service applications with Docker Compose, multi-service applications with Docker Compose{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">Jenkins</b> and cloud platforms like {" "}
+                <b className="purple">AWS</b> and {" "}
+                <b className="purple">Azure</b>.
               </i>
             </p>
           </Col>
