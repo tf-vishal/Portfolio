@@ -25,6 +25,7 @@ import Prometheus from "../../Assets/TechIcons/Prometheus.svg";
 import Terraform from "../../Assets/TechIcons/Terraform.svg";
 import Vim from "../../Assets/TechIcons/Vim.svg";
 import YAML from "../../Assets/TechIcons/YAML.svg";
+import Compose from "../../Assets/TechIcons/Compose.svg";
 
 
 function Techstack() {
@@ -36,7 +37,7 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <img src={Javascript} alt="javascript" />
+        <img src={Compose} alt="compose" />
         <div className="tech-icons-text">Docker Compose</div>
       </Col>
 
